@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/arsh-portfolio/static/css/main.a64a8161.css",
+    "main.js": "/arsh-portfolio/static/js/main.d0a84480.js",
+    "static/media/me.png": "/arsh-portfolio/static/media/me.173f3ec7d3f1c49c6d1d.png",
+    "static/media/me-two.png": "/arsh-portfolio/static/media/me-two.fb8afc5d78d9cf23299f.png",
+    "static/media/address.png": "/arsh-portfolio/static/media/address.a01cb8cc428702f30bec.png",
+    "static/media/email.png": "/arsh-portfolio/static/media/email.a49e015815e3ac6d2bd3.png",
+    "static/media/sun.png": "/arsh-portfolio/static/media/sun.f794832ad72b90c61eb7.png",
+    "static/media/phone.png": "/arsh-portfolio/static/media/phone.d90a6d23cf5129d853bb.png",
+    "static/media/moon.png": "/arsh-portfolio/static/media/moon.3bea3d398a25611d421b.png",
+    "index.html": "/arsh-portfolio/index.html",
+    "main.a64a8161.css.map": "/arsh-portfolio/static/css/main.a64a8161.css.map",
+    "main.d0a84480.js.map": "/arsh-portfolio/static/js/main.d0a84480.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a64a8161.css",
+    "static/js/main.d0a84480.js"
+  ]
+}
