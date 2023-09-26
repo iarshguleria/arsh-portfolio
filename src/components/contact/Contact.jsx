@@ -49,7 +49,7 @@ const Contact = () => {
             </div>
             <div className="c-info-item">
               <img className="c-icon" src={Address} alt="" />
-              Dharamsala, Kangra(Himachal Prades) - 176052
+              Dharamsala, Kangra(Himachal Pradesh) - 176052
             </div>
           </div>
         </div>

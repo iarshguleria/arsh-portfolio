@@ -43,7 +43,7 @@ const About = () => {
 
         <div className="a-award">
         <p className="a-sub">
-          Here is my <a target="_blank" className="company-link" href="https://drive.google.com/file/d/1f_Etr-7KMeoLgi8cH90TUb-C8u2YosNs/view?usp=sharing" rel="noreferrer">Resume</a>
+          Here is my <a target="_blank" className="company-link" href="https://drive.google.com/drive/folders/1usZLyUMv_FC2_WRziXo7lVj1Zu1o_bb1?usp=sharing" rel="noreferrer">Resume</a>
          </p>
         </div>
       </div>
