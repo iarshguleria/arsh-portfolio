@@ -10,7 +10,7 @@ const Intro = () => {
             <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/linkedin.png" alt="linkedin"/>
             </a>
 
-            <a href="https://github.com/arsh-cogo" target="_blank" rel="noreferrer">
+            <a href="https://github.com/iarshguleria" target="_blank" rel="noreferrer">
             <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/github.png" alt="github"/>
             </a>
 
