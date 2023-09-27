@@ -104,6 +104,21 @@
     height: 100%;
   }
 
+  .icon-left{
+    display: flex;
+    flex-direction: column;
+  }
+
+  .i-title-item{
+    font-size: 25px;
+  }
+
+  .i-title-item{
+    display: flex;
+    justify-content: revert;
+    flex-direction: column;
+  }
+
   .i-desc{
     display: none;
   }

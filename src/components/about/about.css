@@ -89,12 +89,14 @@
       height: 30vh;
     }
 
-    .a-card.bg, .a-award {
+    .a-card.bg {
       display: none;
     }
 
     .a-right{
       padding: 20px;
+      overflow: auto;
+      margin-bottom: 30px;
     }
 }
 

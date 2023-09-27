@@ -10,14 +10,14 @@ const Intro = () => {
             <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/linkedin.png" alt="linkedin"/>
             </a>
 
-            <a href="https://github.com/iarshguleria" target="_blank" rel="noreferrer">
+            <a href="https://github.com/arsh-cogo" target="_blank" rel="noreferrer">
             <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/github.png" alt="github"/>
             </a>
 
             <a href="https://www.instagram.com/iarshguleria/?ig..." target="_blank" rel="noreferrer">
             <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/instagram-new--v1.png" alt="instagram-new--v1"/>
             </a>
-          </div>
+        </div>
 
         <div className="i-left-wrapper">
           <h2 className="i-intro">Hello, My name is</h2>
@@ -25,7 +25,7 @@ const Intro = () => {
           <div className="i-title">
             <div className="i-title-wrapper">
               <div className="i-title-item">Web Developer</div>
-              <div className="i-title-item">ML Engineer</div>
+              <div className="i-title-item">ML Enthusiat</div>
               <div className="i-title-item">Content Creator</div>
               <div className="i-title-item">Stand-up Comedian</div>
               <div className="i-title-item">Human</div>

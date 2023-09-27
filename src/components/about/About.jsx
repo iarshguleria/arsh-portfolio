@@ -41,7 +41,7 @@ const About = () => {
          </p>
         </div>
 
-        <div className="a-award">
+        <div className="a-desc">
         <p className="a-sub">
           Here is my <a target="_blank" className="company-link" href="https://drive.google.com/drive/folders/1usZLyUMv_FC2_WRziXo7lVj1Zu1o_bb1?usp=sharing" rel="noreferrer">Resume</a>
          </p>
